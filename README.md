@@ -1,6 +1,6 @@
-## Alf Bot
+## MIMIN NETBOT
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
-
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
 
 <img src = "https://i.ibb.co/jD65tdm/62-812-1347-7896-20201109-230938.jpg" width="320">
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/alfiansx/alfbot
-> cd alfbot
+> git clone https://github.com/MIMINBOT/bot1
+> cd bot1
 > bash install.sh
 > npm i node-tesseract-ocr
 > pkg install tesseract
@@ -27,7 +27,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 # FITUR
-
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
 | KEADAAN       |               FITUR     |
 | :-----------: | :--------------------------------:  |
 |       ✅       |    PANTUN                         |
