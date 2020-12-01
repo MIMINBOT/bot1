@@ -1,6 +1,6 @@
 {
-  "name": "ALFBOT",
-  "version": "1.0.0",
+  "nama": "MIMIN" ,
+  "versi" : "1.0.0" ,
   "description": "bot termux",
   "main": "index.js",
   "directories": {
