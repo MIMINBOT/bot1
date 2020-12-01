@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alfiansx/alfbot"
+    "url" : "git + https: //github.com/MIMINBOT/bot1
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Ibnu Nur Ramadani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alfiansx/alfbot/issues"
+    "url": "https://github.com/alfiansx/MIMINBOT/bot1"
   },
-  "homepage": "https://github.com/alfiansx/alfbot#readme"
+  "homepage": "https://github.com/MIMINBOT/bot1#readme"
 }
